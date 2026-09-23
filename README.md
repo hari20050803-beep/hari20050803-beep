@@ -84,6 +84,7 @@ to whatever compiled first.
 
 #### Reach me
 
+- CV — [Harenthira_Ravishangar_CV.pdf](https://github.com/hari20050803-beep/hari20050803-beep/blob/main/Harenthira_Ravishangar_CV.pdf)
 - Email — [hari2005.08.03@gmail.com](mailto:hari2005.08.03@gmail.com)
 - LinkedIn — *add your profile URL here*
 
