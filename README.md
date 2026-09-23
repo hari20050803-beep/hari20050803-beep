@@ -5,25 +5,7 @@ applications, and I care most about the parts that are invisible when they
 work — transactions that hold under concurrency, authentication that survives
 a stolen token, schemas that don't quietly rewrite their own history.
 
-Currently completing the **CodeAlpha Full Stack Development Internship**.
-
----
-
-#### What I'm working on
-
-**A transactional e-commerce store** — Node.js, Express 5, MySQL 8, vanilla JS.
-
-The interesting part isn't the catalogue; it's the checkout. Two customers can
-want the last unit at the same instant, and a naive read-then-write sells it
-twice. So the order is placed inside one transaction with `SELECT … FOR UPDATE`
-row locks, taken in a consistent id order to avoid deadlock, with the stock
-guard repeated in the `UPDATE` as an independent second barrier.
-
-Verified, not assumed: five simultaneous requests for one remaining unit
-produce exactly one success and four rejections, with stock landing on zero.
-
-The cart also carries no price field, so a tampered price isn't rejected —
-it's impossible to send.
+Currently interning at **SkillForge Technologies**.
 
 ---
 
@@ -55,12 +37,6 @@ Flutter · Firebase · Gemini
 Eleven modules around a single dashboard, including AI-generated flashcards
 with a flip-card study mode and a study roadmap that plans a syllabus into
 sessions.
-
-**CodeAlpha E-commerce Store** — full-stack storefront
-Node.js · Express · MySQL · Vanilla JS
-Catalogue with full-text search, persistent cart, transactional checkout,
-order history and an admin dashboard. JWT auth with rotating refresh tokens,
-a Content-Security-Policy with no `unsafe-inline`, and 143 tests.
 
 **Event management platform** — ASP.NET Core, Entity Framework, SQL Server
 A layered Web API with an MVC frontend, built to a specification rather than
