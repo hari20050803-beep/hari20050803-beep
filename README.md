@@ -1,6 +1,6 @@
 ### Hi, I'm Hari
 
-Final-year Computer Science student. I build full-stack and AI-assisted
+I am BSE student. I build full-stack and AI-assisted
 applications, and I care most about the parts that are invisible when they
 work — transactions that hold under concurrency, authentication that survives
 a stolen token, schemas that don't quietly rewrite their own history.
