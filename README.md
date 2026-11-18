@@ -62,15 +62,14 @@ to whatever compiled first.
 
 - CV — [Harenthira_Ravishangar_CV.pdf](https://github.com/hari20050803-beep/hari20050803-beep/blob/main/Harenthira_Ravishangar_CV.pdf)
 - Email — [hari2005.08.03@gmail.com](mailto:hari2005.08.03@gmail.com)
-- LinkedIn — *add your profile URL here*
+- LinkedIn — [harenthira-ravishangar-830031427](https://www.linkedin.com/in/harenthira-ravishangar-830031427/)
 
 <!--
   Notes for you, invisible on the rendered profile:
 
   1. This file lives in a repo named exactly hari20050803-beep — same as your
      username. That is what makes GitHub render it on your profile page.
-  2. Fill in the LinkedIn line above, and remove the email line if you would
-     rather not publish it.
+  2. Remove the email line above if you would rather not publish it.
   3. As you publish each project, link its name to the repo, e.g.
      **[MedLens AI](https://github.com/hari20050803-beep/MedLens-AI)**
   4. Set your display name, bio and location in GitHub Settings > Profile -
